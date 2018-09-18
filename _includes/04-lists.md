@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* Angular :heart:
+* React
+* Vue.js 
+  - v1
+  - v2
